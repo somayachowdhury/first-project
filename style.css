@@ -1,0 +1,24 @@
+.headline{
+
+text-align: center;
+color:blue;
+background-color: lightblue;
+border:20px solid rgb(10, 53, 248)
+
+
+}
+.under{
+margin-right: 400px;
+margin-left: 400px;
+
+}
+.essay{
+ background-color: deepskyblue;
+ border:5px dotted yellow
+
+}
+.gh{
+text-align: justify;
+
+
+}
